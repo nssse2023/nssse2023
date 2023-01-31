@@ -80,7 +80,7 @@ element.style {
 .navbar-nav .dropdown-menu {
 	left: -5px;
 	font-size: 13px;
-	background-color:#ff4242;
+	background-color: rgba(0, 0, 0, 0.8);
 }
 .navbar-nav .dropdown-menu > li > a{
 	color:#fff;
