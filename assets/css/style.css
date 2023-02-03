@@ -87,7 +87,7 @@ element.style {
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > .open ul > a {
 color: rgba(255, 255, 255, 1); 
-background: rgba(255, 255, 255, 0.15);
+background: rgba(131, 131, 131, 0.6);
 }
 .navbar-inverse {
 	background:transparent;
@@ -125,8 +125,9 @@ background: #85E556;
 }
 /* Header */
 #head {
-	background: #181015 url( ../images/fotor01.jpg) no-repeat;
+	background: #181015 url( ../images/揚帆.jpg) no-repeat;
 	background-size: cover;
+	background-position: bottom;
 	min-height: 520px;
 	text-align: center;
 	padding-top: 240px;
