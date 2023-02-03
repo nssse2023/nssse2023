@@ -31,7 +31,7 @@ label {
 	color: #777;
 }
 .herotxt{
-	background: #beecec;
+	background: #cce2d4;
 }
  
 .herotxt p {
@@ -103,7 +103,7 @@ background: rgba(255, 255, 255, 0.15);
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-nav>li:hover { 
 color: #3a3a3a !important;
-background: #beecec;
+background: #cce2d4;
 }
 .navbar-fixed-top, .navbar-fixed-bottom { 
 z-index: 9999;
