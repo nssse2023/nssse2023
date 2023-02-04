@@ -691,3 +691,14 @@ background:rgba(0,0,0,0.80)	;
 	margin: 1rem 4rem;
 	padding-right: 1rem;
 }
+
+.navbar-center {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+
+.navbar-collapse-center {
+	text-align: center;
+}
