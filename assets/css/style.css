@@ -102,8 +102,8 @@ background: rgba(131, 131, 131, 0.6);
 	border:none !important;	
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-nav>li:hover { 
-color: #3a3a3a !important;
-background: rgba(131, 131, 131, 0.8);
+color: white !important;
+background: rgba(101, 101, 101, 0.9);
 }
 .navbar-fixed-top, .navbar-fixed-bottom { 
 z-index: 9999;
