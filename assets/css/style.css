@@ -343,7 +343,7 @@ border: 1px solid #e6e6e6;}
 .blockquote-box.blockquote-success{border-color:#4CAE4C}
 .blockquote-box.blockquote-success .square{color: #FF4242;}
 .blockquote-box.blockquote-info{border-color:#46B8DA}
-.blockquote-box.blockquote-info .square{color: #FF4242;}
+.blockquote-box.blockquote-info .square{color: #FF4242;}`
 .blockquote-box.blockquote-warning{border-color:#EEA236}
 .blockquote-box.blockquote-warning .square{color: #FF4242;}
 .blockquote-box.blockquote-danger{border-color:#D43F3A}
@@ -734,4 +734,8 @@ background:rgba(0,0,0,0.80)	;
 	-moz-transition: all 300ms ease-in-out;
 	transition: all 300ms ease-in-out;
 	width: 100%;
+}
+.blockquote-box li {
+	margin-top: 5px;
+	margin-bottom: 6px;
 }
